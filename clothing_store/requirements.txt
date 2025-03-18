@@ -1,0 +1,5 @@
+# requirements.txt
+Django>=4.2
+djangorestframework>=3.14
+supabase>=1.0.0
+requests>=2.28
